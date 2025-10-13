@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of VEO3 Grid",
+  "description": "An advanced video generation pipeline that transforms story scripts into cinematic videos using AI. It features scene splitting, video/image generation with model fallbacks, Indonesian TTS, and automated music integration, all managed through a comprehensive grid-based UI.",
+  "requestFramePermissions": []
+}
